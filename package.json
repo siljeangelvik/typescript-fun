@@ -1,0 +1,18 @@
+{
+  "name": "typescript-fun",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tconsole": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
