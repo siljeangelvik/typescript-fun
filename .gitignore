@@ -1,0 +1,69 @@
+# Ignore node_modules, build, and VS Code specific files
+node_modules/
+build/
+.vscode/
+
+# PhpStorm specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/php.xml
+.idea/phpunit.xml
+.idea/deployment.xml
+.idea/dataSources/
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/scopes/
+
+# Composer
+composer.phar
+/vendor/
+
+# TypeScript-specific files
+*.tsbuildinfo
+*.js.map
+
+# Build artifacts
+/dist/
+
+# Test-specific artifacts
+/coverage/
+
+# Node.js-specific files
+package-lock.json
+
+# Dependency folders
+/.npm/
+/yarn-error.log
+
+# Logs and runtime data
+npm-debug.log
+yarn-error.log
+
+# Ignore .env files containing sensitive information
+.env
+
+# Ignore logs and temporary files
+*.log
+logs/
+*.log.*
+npm-debug.log*
+*.bin
+*.lock
+.local/
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini

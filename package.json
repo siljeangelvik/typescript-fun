@@ -1,18 +1,28 @@
 {
   "name": "typescript-fun",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fun TypeScript project",
   "type": "commonjs",
   "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "npx tsc",
     "tconsole": "node build/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["typescript", "fun"],
+  "author": "Silje Avena Angelvik",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.17",
     "typescript": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siljeangelvik/typescript-fun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siljeangelvik/typescript-fun/issues"
+  },
+  "homepage": "https://github.com/siljeangelvik/typescript-fun",
+  "private": true
 }

@@ -2,7 +2,7 @@
 
 **Author:** Silje Avena Angelvik  
 **Host:** ...  
-**Repository:** ...  
+**Repository:** [GitHub](https://github.com/siljeangelvik/typescript-fun)  
 
 
 ## Built With
