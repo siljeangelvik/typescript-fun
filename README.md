@@ -28,10 +28,12 @@ Simultaneously working on [Codecademy](https://www.codecademy.com) TypeScript co
 
 ## Resources
 
-###### 15 February 2024, ≈ 07.00 AM - 09.50 AM
+###### 15 February 2024, ≈ 07.00 AM - 10.00 AM
 [What is a TSConfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)    
 [GitHub TSConfig bases](https://github.com/tsconfig/bases/)  
+[How to setup a new TypeScript Project](https://www.digitalocean.com/community/tutorials/typescript-new-project)  
 [Compiler Options](https://www.typescriptlang.org/tsconfig)  
 [TSConfig Reference](https://www.typescriptlang.org/tsconfig)  
 [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)  
-[Codecademy](https://www.codecademy.com)
+[Codecademy](https://www.codecademy.com)  
+[PlayCode](https://playcode.io/learn/debugging/use-typeof-to-check-the-type-of-a-variable)
