@@ -37,3 +37,9 @@ Simultaneously working on [Codecademy](https://www.codecademy.com) TypeScript co
 [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)  
 [Codecademy](https://www.codecademy.com)  
 [PlayCode](https://playcode.io/learn/debugging/use-typeof-to-check-the-type-of-a-variable)
+
+###### 16 February 2024, ≈ 17.00 AM - 18.00 AM
+[TypeScript code comments and functions](https://chat.openai.com/share/ff0bdd11-7357-42b1-8930-4f5768280349)
+
+###### 16 February 2024, ≈ 15.00 AM - 16.00 AM
+[TypeScript Function Docs](https://chat.openai.com/share/d1046989-82c6-461a-9af3-ff3fcf6a734b)

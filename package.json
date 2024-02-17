@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "npx tsc",
-    "tconsole": "node build/index.js"
+    "bindex": "node build/index.js",
+    "bfunc": "node build/codecademyFunctions.js"
   },
   "keywords": ["typescript", "fun"],
   "author": "Silje Avena Angelvik",
